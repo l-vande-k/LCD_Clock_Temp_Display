@@ -1,2 +1,4 @@
 # LCD_Clock_Temp_Display
-An LCD Clock and Temp Display program created for a Nucle-F401RE development board
+
+## Objective
+The goal of this project was to design and implement a fully functional time and temperature display using an F401RE microcontroller board and a 16x2 LCD display. This project affords students an opportunity to learn about general purpose inputs and outputs (GPIO), analog to digital signal conversion, keypad scanning algorithms, and LCD driver implementation. 
